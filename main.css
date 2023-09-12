@@ -1,0 +1,27 @@
+html 
+{background-color: aqua;
+
+padding: 30px;
+
+border-bottom: thick double;
+
+font-weight: 400;
+
+margin: auto;
+
+max-width: 85ch;
+
+.normal {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.oblique {
+  font-style: oblique;
+}
+
+
+}
